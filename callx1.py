@@ -1,6 +1,6 @@
 import requests
 import hashlib, random
-number = input('Enter Target :')
+number = '01095171308'
 asa = '123456789'
 gigk = str(''.join(random.choice(asa) for i in range(10)))
 
